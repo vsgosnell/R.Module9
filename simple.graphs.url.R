@@ -1,3 +1,4 @@
+#https://sites.harding.edu/fmccown/r/
 #producing simple graphs with R
 
 # line charts
@@ -84,9 +85,5 @@ title(ylab="Total", col.lab=rgb(0,0.5,0))
 # the actual plots 
 legend(1, g_range[2], c("cars","trucks"), cex=0.8, 
        col=c("blue","red"), pch=21:22, lty=1:2);
-
-
-
-
 
 
